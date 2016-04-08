@@ -1,0 +1,11 @@
+/* 
+  CustomLocalizable.strings
+  languageChangeDemo
+
+  Created by liyang@l2cplat.com on 16/4/8.
+  Copyright © 2016年 yang_li828@163.com. All rights reserved.
+*/
+
+
+
+"showText" = "這是壹個臺灣繁體";

@@ -1,0 +1,10 @@
+/* 
+  CustomLocalizable.strings
+  languageChangeDemo
+
+  Created by liyang@l2cplat.com on 16/4/8.
+  Copyright © 2016年 yang_li828@163.com. All rights reserved.
+*/
+
+
+"showText" = "这是一个简体中文";
